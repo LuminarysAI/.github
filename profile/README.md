@@ -1,6 +1,6 @@
 # Luminarys AI
 
-Sandboxed AI skill platform with multi-node clustering, MCP/ACP support, and a built-in autonomous agent.
+**Sandboxed AI skill platform with multi-node clustering, MCP/ACP support, and a built-in autonomous agent.**
 
 Write skills in any language. Run them in isolated WASM sandboxes. Expose via MCP or let the agent orchestrate autonomously.
 
