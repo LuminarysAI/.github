@@ -1,6 +1,6 @@
 # Luminarys AI
 
-Next-generation AI platform that combines an autonomous agent and an MCP server with sandboxed WebAssembly skill execution.
+Sandboxed AI skill platform with multi-node clustering, MCP/ACP support, and a built-in autonomous agent.
 
 Write skills in any language. Run them in isolated WASM sandboxes. Expose via MCP or let the agent orchestrate autonomously.
 
