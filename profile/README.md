@@ -10,7 +10,7 @@ Write skills in any language. Run them in isolated WASM sandboxes. Expose via MC
 |------------|-------------|
 | [luminarys](https://github.com/LuminarysAI/luminarys) | Host runtime, `lmsk` skill toolchain, releases |
 | [skill-examples](https://github.com/LuminarysAI/skill-examples) | Example skills in AssemblyScript, Go, and Rust |
-| [mcp-demo-cluster](https://github.com/LuminarysAI/mcp-demo-cluster) | Multi-node cluster demo with Docker Compose |
+| [mcp-demo-cluster](https://github.com/LuminarysAI/mcp-demo-cluster) | Multi-node cluster demo with Docker Compose | 
 | [sdk-as](https://github.com/LuminarysAI/sdk-as) | AssemblyScript SDK ([@luminarys/sdk-as](https://www.npmjs.com/package/@luminarys/sdk-as)) |
 | [sdk-go](https://github.com/LuminarysAI/sdk-go) | Go SDK |
 | [sdk-rust](https://github.com/LuminarysAI/sdk-rust) | Rust SDK ([luminarys-sdk](https://crates.io/crates/luminarys-sdk)) |
